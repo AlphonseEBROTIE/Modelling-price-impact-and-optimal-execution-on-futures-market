@@ -1,1 +1,1 @@
-# Optimal-execution-and-market-impact
+# Modelling price impact and optimal execution on futures market
